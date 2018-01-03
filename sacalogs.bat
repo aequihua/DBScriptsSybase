@@ -1,0 +1,1 @@
+sybdiag -SPRO -Usapsa -PDim3xS4P -T asecore, keyfile, aseadd, osdata

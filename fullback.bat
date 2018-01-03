@@ -1,0 +1,1 @@
+isql -SPRO -DPRO -Usapsa -i fullback.sql -X -PDim3xS4P

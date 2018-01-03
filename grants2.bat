@@ -1,0 +1,1 @@
+isql -SPRO -DPRO -Usapsa -i pelotes2.sql -X -PDim3xS4P
