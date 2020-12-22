@@ -1,2 +1,2 @@
 cd c:\dbscripts
-deleteold.ps1 -FolderPath j:\backups -FileAge 1 -IncludePath .*trans*. -RegExPath  -LogFile ./log.log
+powershell.exe -ExecutionPolicy Bypass -Command ".\deleteold.ps1 -FolderPath e:\backup\PRB -FileAge 1 -LogFile ./log.log"
